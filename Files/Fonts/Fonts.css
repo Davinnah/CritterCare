@@ -1,0 +1,9 @@
+@font-face {
+font-family: "Swagger";
+src: url("Swagger.eot") format("eot"); /* IE9 Compat Modes */
+src: url("Swagger.eot?#iefix") format("embedded-opentype"), /* IE6-IE8 */
+     url("Swagger.woff") format("woff"), /* Modern Browsers */
+     url("Swagger.ttf") format("truetype"); /* Safari, Android, iOS */
+font-weight: normal;
+font-style: normal;
+}

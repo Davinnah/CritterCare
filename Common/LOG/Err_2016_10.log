@@ -1,0 +1,607 @@
+10/15/2016 2:26:23 PM | 
+10/15/2016 2:26:23 PM | 
+Message : Item has already been added. Key in dictionary: '31037849'  Key being added: '31037849'
+10/15/2016 2:26:23 PM | 
+LastTrace : openElement.Controls.CtlStylesCss.LoadPropertyGrid(List`1 selectedObjects)
+10/15/2016 2:26:23 PM | 
+Params : 
+10/15/2016 2:26:23 PM | 
+MethodeName : Void Insert(System.Object, System.Object, Boolean)
+10/15/2016 2:26:23 PM | 
+Stamp : 10/15/2016 2:26:23 PM
+10/15/2016 2:26:23 PM | 
+OSFullName : Microsoft Windows 10 Home
+10/15/2016 2:26:23 PM | 
+AvailablePhysicalMemory : 12.63 Go 
+10/15/2016 2:26:23 PM | 
+TotalPhysicalMemory : 15.94 Go 
+10/15/2016 2:26:23 PM | 
+AvailableVirtualMemory : 3.07 Go 
+10/15/2016 2:26:23 PM | 
+TotalVirtualMemory : 4 Go 
+10/15/2016 2:26:23 PM | 
+WorkingSet : 393.7 Mo 
+10/15/2016 2:26:23 PM | 
+PagedMemorySize : 361.04 Mo 
+10/15/2016 2:26:23 PM | 
+TotalMemory : 51.72 Mo 
+10/15/2016 2:26:23 PM | 
+
+10/15/2016 2:26:23 PM | 
+ExTrace : 
+10/15/2016 2:26:23 PM | 
+at openElement.Controls.CtlStylesCss.LoadPropertyGrid(List`1 selectedObjects) in C:\Users\Win7Dev64\Source\Workspaces\openElement\App\openElement\Control\CtlStylesCss.vb:line 120
+10/15/2016 2:26:23 PM | 
+at openElement.Controls.CtlStyles.LoadCss() in C:\Users\Win7Dev64\Source\Workspaces\openElement\App\openElement\Control\CtlStyles.vb:line 119
+10/15/2016 2:26:23 PM | 
+at openElement.Controls.CtlStyles.StartSelect() in C:\Users\Win7Dev64\Source\Workspaces\openElement\App\openElement\Control\CtlStyles.vb:line 69
+10/15/2016 2:26:23 PM | 
+at openElement.Forms.Main.FrmMain.LoadCurrentSelection() in C:\Users\Win7Dev64\Source\Workspaces\openElement\App\openElement\Form\Main\FrmMain.vb:line 652
+10/15/2016 2:26:23 PM | 
+at openElement.Forms.FrmPageEdit.ActivateSelectedElements(Boolean withJS) in C:\Users\Win7Dev64\Source\Workspaces\openElement\App\openElement\Form\Page\FrmPageEdit.Select.vb:line 299
+10/15/2016 2:26:23 PM | 
+at openElement.Forms.PageEditFromJs._SelectElements(String idjsArray, String zoneName, String propertyName, String textEditData) in C:\Users\Win7Dev64\Source\Workspaces\openElement\App\openElement\Form\Page\PageEditFromJs.vb:line 503
+10/15/2016 2:26:23 PM | 
+
+10/15/2016 2:26:23 PM | 
+OETrace : 
+10/15/2016 2:26:23 PM | 
+at openElement.Forms.PageEditFromJs.TrapError(Exception ex, String infosParams) in C:\Users\Win7Dev64\Source\Workspaces\openElement\App\openElement\Form\Page\PageEditFromJs.vb:line 35
+10/15/2016 2:26:23 PM | 
+at openElement.Forms.PageEditFromJs._SelectElements(String idjsArray, String zoneName, String propertyName, String textEditData) in C:\Users\Win7Dev64\Source\Workspaces\openElement\App\openElement\Form\Page\PageEditFromJs.vb:line 508
+10/15/2016 2:26:23 PM | 
+at openElement.My.MyApplication.Main(String[] Args) in 17d14f5c-a337-4978-8281-53493378c1071.vb:line 82
+10/15/2016 2:26:23 PM | 
+
+10/15/2016 2:26:23 PM | 
+------------------
+10/17/2016 8:09:25 AM | 
+10/17/2016 8:09:25 AM | 
+Message : Item has already been added. Key in dictionary: '31037849'  Key being added: '31037849'
+10/17/2016 8:09:25 AM | 
+LastTrace : openElement.Controls.CtlStylesCss.LoadPropertyGrid(List`1 selectedObjects)
+10/17/2016 8:09:25 AM | 
+Params : 
+10/17/2016 8:09:25 AM | 
+MethodeName : Void Insert(System.Object, System.Object, Boolean)
+10/17/2016 8:09:25 AM | 
+Stamp : 10/17/2016 8:09:25 AM
+10/17/2016 8:09:25 AM | 
+OSFullName : Microsoft Windows 10 Home
+10/17/2016 8:09:25 AM | 
+AvailablePhysicalMemory : 12.42 Go 
+10/17/2016 8:09:25 AM | 
+TotalPhysicalMemory : 15.94 Go 
+10/17/2016 8:09:25 AM | 
+AvailableVirtualMemory : 3.06 Go 
+10/17/2016 8:09:25 AM | 
+TotalVirtualMemory : 4 Go 
+10/17/2016 8:09:25 AM | 
+WorkingSet : 379.62 Mo 
+10/17/2016 8:09:25 AM | 
+PagedMemorySize : 415.12 Mo 
+10/17/2016 8:09:25 AM | 
+TotalMemory : 71.66 Mo 
+10/17/2016 8:09:25 AM | 
+
+10/17/2016 8:09:25 AM | 
+ExTrace : 
+10/17/2016 8:09:25 AM | 
+at openElement.Controls.CtlStylesCss.LoadPropertyGrid(List`1 selectedObjects) in C:\Users\Win7Dev64\Source\Workspaces\openElement\App\openElement\Control\CtlStylesCss.vb:line 120
+10/17/2016 8:09:25 AM | 
+at openElement.Controls.CtlStyles.LoadCss() in C:\Users\Win7Dev64\Source\Workspaces\openElement\App\openElement\Control\CtlStyles.vb:line 119
+10/17/2016 8:09:25 AM | 
+at openElement.Controls.CtlStyles.StartSelect() in C:\Users\Win7Dev64\Source\Workspaces\openElement\App\openElement\Control\CtlStyles.vb:line 69
+10/17/2016 8:09:25 AM | 
+at openElement.Forms.Main.FrmMain.LoadCurrentSelection() in C:\Users\Win7Dev64\Source\Workspaces\openElement\App\openElement\Form\Main\FrmMain.vb:line 652
+10/17/2016 8:09:25 AM | 
+at openElement.Forms.FrmPageEdit.ActivateSelectedElements(Boolean withJS) in C:\Users\Win7Dev64\Source\Workspaces\openElement\App\openElement\Form\Page\FrmPageEdit.Select.vb:line 299
+10/17/2016 8:09:25 AM | 
+at openElement.Forms.PageEditFromJs._SelectElements(String idjsArray, String zoneName, String propertyName, String textEditData) in C:\Users\Win7Dev64\Source\Workspaces\openElement\App\openElement\Form\Page\PageEditFromJs.vb:line 503
+10/17/2016 8:09:25 AM | 
+
+10/17/2016 8:09:25 AM | 
+OETrace : 
+10/17/2016 8:09:25 AM | 
+at openElement.Forms.PageEditFromJs.TrapError(Exception ex, String infosParams) in C:\Users\Win7Dev64\Source\Workspaces\openElement\App\openElement\Form\Page\PageEditFromJs.vb:line 35
+10/17/2016 8:09:25 AM | 
+at openElement.Forms.PageEditFromJs._SelectElements(String idjsArray, String zoneName, String propertyName, String textEditData) in C:\Users\Win7Dev64\Source\Workspaces\openElement\App\openElement\Form\Page\PageEditFromJs.vb:line 508
+10/17/2016 8:09:25 AM | 
+at openElement.My.MyApplication.Main(String[] Args) in 17d14f5c-a337-4978-8281-53493378c1071.vb:line 82
+10/17/2016 8:09:25 AM | 
+
+10/17/2016 8:09:25 AM | 
+------------------
+10/19/2016 11:24:09 AM | 
+10/19/2016 11:24:09 AM | 
+Message : Object reference not set to an instance of an object.
+10/19/2016 11:24:09 AM | 
+LastTrace : openElement.ElementEditorService.OpenProperty(String propertyName)
+10/19/2016 11:24:09 AM | 
+Params : 
+10/19/2016 11:24:09 AM | 
+MethodeName : Void SetValue(System.Object, System.Object)
+10/19/2016 11:24:09 AM | 
+Stamp : 10/19/2016 11:24:09 AM
+10/19/2016 11:24:09 AM | 
+OSFullName : Microsoft Windows 10 Home
+10/19/2016 11:24:09 AM | 
+AvailablePhysicalMemory : 12.28 Go 
+10/19/2016 11:24:09 AM | 
+TotalPhysicalMemory : 15.94 Go 
+10/19/2016 11:24:09 AM | 
+AvailableVirtualMemory : 3.13 Go 
+10/19/2016 11:24:09 AM | 
+TotalVirtualMemory : 4 Go 
+10/19/2016 11:24:09 AM | 
+WorkingSet : 320.55 Mo 
+10/19/2016 11:24:09 AM | 
+PagedMemorySize : 305.11 Mo 
+10/19/2016 11:24:09 AM | 
+TotalMemory : 61.4 Mo 
+10/19/2016 11:24:09 AM | 
+
+10/19/2016 11:24:09 AM | 
+ExTrace : 
+10/19/2016 11:24:09 AM | 
+at openElement.ElementEditorService.OpenProperty(String propertyName) in C:\Users\Win7Dev64\Source\Workspaces\openElement\App\openElement\Class\Common\ElementEditorService.vb:line 52
+10/19/2016 11:24:09 AM | 
+at openElement.Forms.PageEditFromJs._OpenSortProperty(String id, String propertyName) in C:\Users\Win7Dev64\Source\Workspaces\openElement\App\openElement\Form\Page\PageEditFromJs.vb:line 864
+10/19/2016 11:24:09 AM | 
+
+10/19/2016 11:24:09 AM | 
+OETrace : 
+10/19/2016 11:24:09 AM | 
+at openElement.Forms.PageEditFromJs.TrapError(Exception ex, String infosParams) in C:\Users\Win7Dev64\Source\Workspaces\openElement\App\openElement\Form\Page\PageEditFromJs.vb:line 35
+10/19/2016 11:24:09 AM | 
+at openElement.Forms.PageEditFromJs._OpenSortProperty(String id, String propertyName) in C:\Users\Win7Dev64\Source\Workspaces\openElement\App\openElement\Form\Page\PageEditFromJs.vb:line 873
+10/19/2016 11:24:09 AM | 
+at openElement.My.MyApplication.Main(String[] Args) in 17d14f5c-a337-4978-8281-53493378c1071.vb:line 82
+10/19/2016 11:24:09 AM | 
+
+10/19/2016 11:24:09 AM | 
+------------------
+10/19/2016 8:03:20 PM | 
+10/19/2016 8:03:20 PM | 
+Message : Unable to connect to the remote server
+10/19/2016 8:03:20 PM | 
+LastTrace : openElement.Tools.WebElem.DownloadFile(String url, String& data, Dictionary`2 resultResponseHeaders, Version httpVer)
+10/19/2016 8:03:20 PM | 
+Params : 
+10/19/2016 8:03:20 PM | 
+MethodeName : Byte[] DownloadDataInternal(System.Uri, System.Net.WebRequest ByRef)
+10/19/2016 8:03:20 PM | 
+Stamp : 10/19/2016 8:03:20 PM
+10/19/2016 8:03:20 PM | 
+OSFullName : Microsoft Windows 10 Home
+10/19/2016 8:03:20 PM | 
+AvailablePhysicalMemory : 12.89 Go 
+10/19/2016 8:03:20 PM | 
+TotalPhysicalMemory : 15.94 Go 
+10/19/2016 8:03:20 PM | 
+AvailableVirtualMemory : 3.14 Go 
+10/19/2016 8:03:20 PM | 
+TotalVirtualMemory : 4 Go 
+10/19/2016 8:03:20 PM | 
+WorkingSet : 307.4 Mo 
+10/19/2016 8:03:20 PM | 
+PagedMemorySize : 319.72 Mo 
+10/19/2016 8:03:20 PM | 
+TotalMemory : 60.91 Mo 
+10/19/2016 8:03:20 PM | 
+
+10/19/2016 8:03:20 PM | 
+ExTrace : 
+10/19/2016 8:03:20 PM | 
+at openElement.Tools.WebElem.DownloadFile(String url, String& data, Dictionary`2 resultResponseHeaders, Version httpVer) in C:\Users\Win7Dev64\Source\Workspaces\openElement\App\openElement\Tools\ToolsWebElem.vb:line 103
+10/19/2016 8:03:20 PM | 
+
+10/19/2016 8:03:20 PM | 
+OETrace : 
+10/19/2016 8:03:20 PM | 
+at openElement.Tools.WebElem.DownloadFile(String url, String& data, Dictionary`2 resultResponseHeaders, Version httpVer) in C:\Users\Win7Dev64\Source\Workspaces\openElement\App\openElement\Tools\ToolsWebElem.vb:line 117
+10/19/2016 8:03:20 PM | 
+at openElement.WebSite.Connection.FTPConnection.GetHostGetParamResult(String url, String& hostGetParamResult, Dictionary`2 headers) in C:\Users\Win7Dev64\Source\Workspaces\openElement\App\openElement\Class\WebSite\Connexion\FTPConnection.vb:line 886
+10/19/2016 8:03:20 PM | 
+at openElement.WebSite.Connection.FTPConnection.GetParam() in C:\Users\Win7Dev64\Source\Workspaces\openElement\App\openElement\Class\WebSite\Connexion\FTPConnection.vb:line 832
+10/19/2016 8:03:20 PM | 
+at openElement.Controls.CtlIziConFTP.BBIFTPTest_ItemClick(Object sender, ItemClickEventArgs e) in C:\Users\Win7Dev64\Source\Workspaces\openElement\App\openElement\Control\CtlIziConFTP.vb:line 274
+10/19/2016 8:03:20 PM | 
+at openElement.Forms.FrmAdmin.ShowDialog(FrmDXAdministrationTabs tabactif) in C:\Users\Win7Dev64\Source\Workspaces\openElement\App\openElement\Form\Project\Administrateur\FrmAdmin.vb:line 99
+10/19/2016 8:03:20 PM | 
+at openElement.Forms.Main.RibbonCore.RPProject.RPGPages.BBIProjectPagesPreference_ItemClick(Object sender, ItemClickEventArgs e) in C:\Users\Win7Dev64\Source\Workspaces\openElement\App\openElement\Form\Main\RibbonItemCore\Project\RPGPages.vb:line 186
+10/19/2016 8:03:20 PM | 
+at openElement.My.MyApplication.Main(String[] Args) in 17d14f5c-a337-4978-8281-53493378c1071.vb:line 82
+10/19/2016 8:03:20 PM | 
+
+10/19/2016 8:03:20 PM | 
+------------------
+10/20/2016 9:26:27 AM | 
+10/20/2016 9:26:27 AM | 
+Message : Unable to connect to the remote server
+10/20/2016 9:26:27 AM | 
+LastTrace : openElement.Tools.WebElem.DownloadFile(String url, String& data, Dictionary`2 resultResponseHeaders, Version httpVer)
+10/20/2016 9:26:27 AM | 
+Params : 
+10/20/2016 9:26:27 AM | 
+MethodeName : Byte[] DownloadDataInternal(System.Uri, System.Net.WebRequest ByRef)
+10/20/2016 9:26:27 AM | 
+Stamp : 10/20/2016 9:26:27 AM
+10/20/2016 9:26:27 AM | 
+OSFullName : Microsoft Windows 10 Home
+10/20/2016 9:26:27 AM | 
+AvailablePhysicalMemory : 11.67 Go 
+10/20/2016 9:26:27 AM | 
+TotalPhysicalMemory : 15.94 Go 
+10/20/2016 9:26:27 AM | 
+AvailableVirtualMemory : 3.09 Go 
+10/20/2016 9:26:27 AM | 
+TotalVirtualMemory : 4 Go 
+10/20/2016 9:26:27 AM | 
+WorkingSet : 361.55 Mo 
+10/20/2016 9:26:27 AM | 
+PagedMemorySize : 401.73 Mo 
+10/20/2016 9:26:27 AM | 
+TotalMemory : 92.53 Mo 
+10/20/2016 9:26:27 AM | 
+
+10/20/2016 9:26:27 AM | 
+ExTrace : 
+10/20/2016 9:26:27 AM | 
+at openElement.Tools.WebElem.DownloadFile(String url, String& data, Dictionary`2 resultResponseHeaders, Version httpVer) in C:\Users\Win7Dev64\Source\Workspaces\openElement\App\openElement\Tools\ToolsWebElem.vb:line 103
+10/20/2016 9:26:27 AM | 
+
+10/20/2016 9:26:27 AM | 
+OETrace : 
+10/20/2016 9:26:27 AM | 
+at openElement.Tools.WebElem.DownloadFile(String url, String& data, Dictionary`2 resultResponseHeaders, Version httpVer) in C:\Users\Win7Dev64\Source\Workspaces\openElement\App\openElement\Tools\ToolsWebElem.vb:line 117
+10/20/2016 9:26:27 AM | 
+at openElement.WebSite.Connection.FTPConnection.GetHostGetParamResult(String url, String& hostGetParamResult, Dictionary`2 headers) in C:\Users\Win7Dev64\Source\Workspaces\openElement\App\openElement\Class\WebSite\Connexion\FTPConnection.vb:line 886
+10/20/2016 9:26:27 AM | 
+at openElement.WebSite.Connection.FTPConnection.GetParam() in C:\Users\Win7Dev64\Source\Workspaces\openElement\App\openElement\Class\WebSite\Connexion\FTPConnection.vb:line 832
+10/20/2016 9:26:27 AM | 
+at openElement.Controls.CtlIziConFTP.BBIFTPTest_ItemClick(Object sender, ItemClickEventArgs e) in C:\Users\Win7Dev64\Source\Workspaces\openElement\App\openElement\Control\CtlIziConFTP.vb:line 274
+10/20/2016 9:26:27 AM | 
+at openElement.Forms.FrmAdmin.ShowDialog(FrmDXAdministrationTabs tabactif) in C:\Users\Win7Dev64\Source\Workspaces\openElement\App\openElement\Form\Project\Administrateur\FrmAdmin.vb:line 99
+10/20/2016 9:26:27 AM | 
+at openElement.Forms.Main.RibbonCore.RPProject.RPGPages.BBIProjectPagesPreference_ItemClick(Object sender, ItemClickEventArgs e) in C:\Users\Win7Dev64\Source\Workspaces\openElement\App\openElement\Form\Main\RibbonItemCore\Project\RPGPages.vb:line 186
+10/20/2016 9:26:27 AM | 
+at openElement.My.MyApplication.Main(String[] Args) in 17d14f5c-a337-4978-8281-53493378c1071.vb:line 82
+10/20/2016 9:26:27 AM | 
+
+10/20/2016 9:26:27 AM | 
+------------------
+10/20/2016 9:27:36 AM | 
+10/20/2016 9:27:36 AM | 
+Message : Unable to connect to the remote server
+10/20/2016 9:27:36 AM | 
+LastTrace : openElement.Tools.WebElem.DownloadFile(String url, String& data, Dictionary`2 resultResponseHeaders, Version httpVer)
+10/20/2016 9:27:36 AM | 
+Params : 
+10/20/2016 9:27:36 AM | 
+MethodeName : Byte[] DownloadDataInternal(System.Uri, System.Net.WebRequest ByRef)
+10/20/2016 9:27:36 AM | 
+Stamp : 10/20/2016 9:27:36 AM
+10/20/2016 9:27:36 AM | 
+OSFullName : Microsoft Windows 10 Home
+10/20/2016 9:27:36 AM | 
+AvailablePhysicalMemory : 11.65 Go 
+10/20/2016 9:27:36 AM | 
+TotalPhysicalMemory : 15.94 Go 
+10/20/2016 9:27:36 AM | 
+AvailableVirtualMemory : 3.09 Go 
+10/20/2016 9:27:36 AM | 
+TotalVirtualMemory : 4 Go 
+10/20/2016 9:27:36 AM | 
+WorkingSet : 363.3 Mo 
+10/20/2016 9:27:36 AM | 
+PagedMemorySize : 402.14 Mo 
+10/20/2016 9:27:36 AM | 
+TotalMemory : 95.35 Mo 
+10/20/2016 9:27:36 AM | 
+
+10/20/2016 9:27:36 AM | 
+ExTrace : 
+10/20/2016 9:27:36 AM | 
+at openElement.Tools.WebElem.DownloadFile(String url, String& data, Dictionary`2 resultResponseHeaders, Version httpVer) in C:\Users\Win7Dev64\Source\Workspaces\openElement\App\openElement\Tools\ToolsWebElem.vb:line 103
+10/20/2016 9:27:36 AM | 
+
+10/20/2016 9:27:36 AM | 
+OETrace : 
+10/20/2016 9:27:36 AM | 
+at openElement.Tools.WebElem.DownloadFile(String url, String& data, Dictionary`2 resultResponseHeaders, Version httpVer) in C:\Users\Win7Dev64\Source\Workspaces\openElement\App\openElement\Tools\ToolsWebElem.vb:line 117
+10/20/2016 9:27:36 AM | 
+at openElement.WebSite.Connection.FTPConnection.GetHostGetParamResult(String url, String& hostGetParamResult, Dictionary`2 headers) in C:\Users\Win7Dev64\Source\Workspaces\openElement\App\openElement\Class\WebSite\Connexion\FTPConnection.vb:line 886
+10/20/2016 9:27:36 AM | 
+at openElement.WebSite.Connection.FTPConnection.GetParam() in C:\Users\Win7Dev64\Source\Workspaces\openElement\App\openElement\Class\WebSite\Connexion\FTPConnection.vb:line 832
+10/20/2016 9:27:36 AM | 
+at openElement.Controls.CtlIziConFTP.BBIFTPTest_ItemClick(Object sender, ItemClickEventArgs e) in C:\Users\Win7Dev64\Source\Workspaces\openElement\App\openElement\Control\CtlIziConFTP.vb:line 274
+10/20/2016 9:27:36 AM | 
+at openElement.Forms.FrmAdmin.ShowDialog(FrmDXAdministrationTabs tabactif) in C:\Users\Win7Dev64\Source\Workspaces\openElement\App\openElement\Form\Project\Administrateur\FrmAdmin.vb:line 99
+10/20/2016 9:27:36 AM | 
+at openElement.Forms.Main.RibbonCore.RPProject.RPGPages.BBIProjectPagesPreference_ItemClick(Object sender, ItemClickEventArgs e) in C:\Users\Win7Dev64\Source\Workspaces\openElement\App\openElement\Form\Main\RibbonItemCore\Project\RPGPages.vb:line 186
+10/20/2016 9:27:36 AM | 
+at openElement.My.MyApplication.Main(String[] Args) in 17d14f5c-a337-4978-8281-53493378c1071.vb:line 82
+10/20/2016 9:27:36 AM | 
+
+10/20/2016 9:27:36 AM | 
+------------------
+10/20/2016 7:16:57 PM | 
+10/20/2016 7:16:57 PM | 
+Message : Object reference not set to an instance of an object.
+10/20/2016 7:16:57 PM | 
+LastTrace : openElement.ElementEditorService.OpenProperty(String propertyName)
+10/20/2016 7:16:57 PM | 
+Params : 
+10/20/2016 7:16:57 PM | 
+MethodeName : Void SetValue(System.Object, System.Object)
+10/20/2016 7:16:57 PM | 
+Stamp : 10/20/2016 7:16:57 PM
+10/20/2016 7:16:57 PM | 
+OSFullName : Microsoft Windows 10 Home
+10/20/2016 7:16:57 PM | 
+AvailablePhysicalMemory : 11.95 Go 
+10/20/2016 7:16:57 PM | 
+TotalPhysicalMemory : 15.94 Go 
+10/20/2016 7:16:57 PM | 
+AvailableVirtualMemory : 2.94 Go 
+10/20/2016 7:16:57 PM | 
+TotalVirtualMemory : 4 Go 
+10/20/2016 7:16:57 PM | 
+WorkingSet : 459.92 Mo 
+10/20/2016 7:16:57 PM | 
+PagedMemorySize : 468.65 Mo 
+10/20/2016 7:16:57 PM | 
+TotalMemory : 61.14 Mo 
+10/20/2016 7:16:57 PM | 
+
+10/20/2016 7:16:57 PM | 
+ExTrace : 
+10/20/2016 7:16:57 PM | 
+at openElement.ElementEditorService.OpenProperty(String propertyName) in C:\Users\Win7Dev64\Source\Workspaces\openElement\App\openElement\Class\Common\ElementEditorService.vb:line 52
+10/20/2016 7:16:57 PM | 
+at openElement.Forms.PageEditFromJs._OpenSortProperty(String id, String propertyName) in C:\Users\Win7Dev64\Source\Workspaces\openElement\App\openElement\Form\Page\PageEditFromJs.vb:line 864
+10/20/2016 7:16:57 PM | 
+
+10/20/2016 7:16:57 PM | 
+OETrace : 
+10/20/2016 7:16:57 PM | 
+at openElement.Forms.PageEditFromJs.TrapError(Exception ex, String infosParams) in C:\Users\Win7Dev64\Source\Workspaces\openElement\App\openElement\Form\Page\PageEditFromJs.vb:line 35
+10/20/2016 7:16:57 PM | 
+at openElement.Forms.PageEditFromJs._OpenSortProperty(String id, String propertyName) in C:\Users\Win7Dev64\Source\Workspaces\openElement\App\openElement\Form\Page\PageEditFromJs.vb:line 873
+10/20/2016 7:16:57 PM | 
+at openElement.My.MyApplication.Main(String[] Args) in 17d14f5c-a337-4978-8281-53493378c1071.vb:line 82
+10/20/2016 7:16:57 PM | 
+
+10/20/2016 7:16:57 PM | 
+------------------
+10/20/2016 7:17:04 PM | 
+10/20/2016 7:17:04 PM | 
+Message : Object reference not set to an instance of an object.
+10/20/2016 7:17:04 PM | 
+LastTrace : openElement.ElementEditorService.OpenProperty(String propertyName)
+10/20/2016 7:17:04 PM | 
+Params : 
+10/20/2016 7:17:04 PM | 
+MethodeName : Void SetValue(System.Object, System.Object)
+10/20/2016 7:17:04 PM | 
+Stamp : 10/20/2016 7:17:04 PM
+10/20/2016 7:17:04 PM | 
+OSFullName : Microsoft Windows 10 Home
+10/20/2016 7:17:04 PM | 
+AvailablePhysicalMemory : 11.94 Go 
+10/20/2016 7:17:04 PM | 
+TotalPhysicalMemory : 15.94 Go 
+10/20/2016 7:17:04 PM | 
+AvailableVirtualMemory : 2.94 Go 
+10/20/2016 7:17:04 PM | 
+TotalVirtualMemory : 4 Go 
+10/20/2016 7:17:04 PM | 
+WorkingSet : 461.98 Mo 
+10/20/2016 7:17:04 PM | 
+PagedMemorySize : 468.66 Mo 
+10/20/2016 7:17:04 PM | 
+TotalMemory : 63.56 Mo 
+10/20/2016 7:17:04 PM | 
+
+10/20/2016 7:17:04 PM | 
+ExTrace : 
+10/20/2016 7:17:04 PM | 
+at openElement.ElementEditorService.OpenProperty(String propertyName) in C:\Users\Win7Dev64\Source\Workspaces\openElement\App\openElement\Class\Common\ElementEditorService.vb:line 52
+10/20/2016 7:17:04 PM | 
+at openElement.Forms.PageEditFromJs._OpenSortProperty(String id, String propertyName) in C:\Users\Win7Dev64\Source\Workspaces\openElement\App\openElement\Form\Page\PageEditFromJs.vb:line 864
+10/20/2016 7:17:04 PM | 
+
+10/20/2016 7:17:04 PM | 
+OETrace : 
+10/20/2016 7:17:04 PM | 
+at openElement.Forms.PageEditFromJs.TrapError(Exception ex, String infosParams) in C:\Users\Win7Dev64\Source\Workspaces\openElement\App\openElement\Form\Page\PageEditFromJs.vb:line 35
+10/20/2016 7:17:04 PM | 
+at openElement.Forms.PageEditFromJs._OpenSortProperty(String id, String propertyName) in C:\Users\Win7Dev64\Source\Workspaces\openElement\App\openElement\Form\Page\PageEditFromJs.vb:line 873
+10/20/2016 7:17:04 PM | 
+at openElement.My.MyApplication.Main(String[] Args) in 17d14f5c-a337-4978-8281-53493378c1071.vb:line 82
+10/20/2016 7:17:04 PM | 
+
+10/20/2016 7:17:04 PM | 
+------------------
+10/21/2016 5:45:18 AM | 
+10/21/2016 5:45:18 AM | 
+Message : Item has already been added. Key in dictionary: '31037849'  Key being added: '31037849'
+10/21/2016 5:45:18 AM | 
+LastTrace : System.Collections.Hashtable.Insert(Object key, Object nvalue, Boolean add)
+10/21/2016 5:45:18 AM | 
+Params : 
+10/21/2016 5:45:18 AM | 
+MethodeName : Void Insert(System.Object, System.Object, Boolean)
+10/21/2016 5:45:18 AM | 
+Stamp : 10/21/2016 5:45:18 AM
+10/21/2016 5:45:18 AM | 
+OSFullName : Microsoft Windows 10 Home
+10/21/2016 5:45:18 AM | 
+AvailablePhysicalMemory : 13.04 Go 
+10/21/2016 5:45:18 AM | 
+TotalPhysicalMemory : 15.94 Go 
+10/21/2016 5:45:18 AM | 
+AvailableVirtualMemory : 3.06 Go 
+10/21/2016 5:45:18 AM | 
+TotalVirtualMemory : 4 Go 
+10/21/2016 5:45:18 AM | 
+WorkingSet : 385.77 Mo 
+10/21/2016 5:45:18 AM | 
+PagedMemorySize : 370.34 Mo 
+10/21/2016 5:45:18 AM | 
+TotalMemory : 55.32 Mo 
+10/21/2016 5:45:18 AM | 
+
+10/21/2016 5:45:18 AM | 
+ExTrace : 
+10/21/2016 5:45:18 AM | 
+at System.Collections.Hashtable.Insert(Object key, Object nvalue, Boolean add)
+10/21/2016 5:45:18 AM | 
+at System.Collections.Hashtable.Add(Object key, Object value)
+10/21/2016 5:45:18 AM | 
+at DevExpress.XtraVerticalGrid.PropertyGridControl.MakeDefault(RepositoryItem item)
+10/21/2016 5:45:18 AM | 
+at DevExpress.XtraVerticalGrid.PropertyGridControl.CreateDefaultRowEdit(RowProperties p)
+10/21/2016 5:45:18 AM | 
+at DevExpress.XtraVerticalGrid.VGridControlBase.CreateRowEdit(RowProperties p)
+10/21/2016 5:45:18 AM | 
+at DevExpress.XtraVerticalGrid.VGridControlBase.GetRowEdit(RowProperties properties, Int32 recordIndex)
+10/21/2016 5:45:18 AM | 
+at DevExpress.XtraVerticalGrid.VGridControlBase.CreateEditorViewInfo(RowProperties properties, Int32 recordIndex)
+10/21/2016 5:45:18 AM | 
+at DevExpress.XtraVerticalGrid.ViewInfo.BaseRowViewInfo.CalcRowValueInfo(RowProperties p, Rectangle r, BaseViewInfo viewInfo, Int32 recordIndex)
+10/21/2016 5:45:18 AM | 
+at DevExpress.XtraVerticalGrid.ViewInfo.EditorRowViewInfo.CalcValuesInfo(BaseViewInfo vi, BaseRow nextRow)
+10/21/2016 5:45:18 AM | 
+at DevExpress.XtraVerticalGrid.ViewInfo.BaseRowViewInfo.Calc(Rectangle rowRect, BaseViewInfo vi, BaseRow nextRow)
+10/21/2016 5:45:18 AM | 
+
+10/21/2016 5:45:18 AM | 
+OETrace : 
+10/21/2016 5:45:18 AM | 
+at openElement.My.MyApplication.MyApplication_UnhandledException(Object sender, UnhandledExceptionEventArgs e) in C:\Users\Win7Dev64\Source\Workspaces\openElement\App\openElement\ApplicationEvents.vb:line 81
+10/21/2016 5:45:18 AM | 
+at openElement.My.MyApplication.Main(String[] Args) in 17d14f5c-a337-4978-8281-53493378c1071.vb:line 82
+10/21/2016 5:45:18 AM | 
+
+10/21/2016 5:45:18 AM | 
+------------------
+10/21/2016 5:45:22 AM | 
+10/21/2016 5:45:22 AM | 
+Message : Item has already been added. Key in dictionary: '31037849'  Key being added: '31037849'
+10/21/2016 5:45:22 AM | 
+LastTrace : System.Collections.Hashtable.Insert(Object key, Object nvalue, Boolean add)
+10/21/2016 5:45:22 AM | 
+Params : 
+10/21/2016 5:45:22 AM | 
+MethodeName : Void Insert(System.Object, System.Object, Boolean)
+10/21/2016 5:45:22 AM | 
+Stamp : 10/21/2016 5:45:22 AM
+10/21/2016 5:45:22 AM | 
+OSFullName : Microsoft Windows 10 Home
+10/21/2016 5:45:22 AM | 
+AvailablePhysicalMemory : 13.03 Go 
+10/21/2016 5:45:22 AM | 
+TotalPhysicalMemory : 15.94 Go 
+10/21/2016 5:45:22 AM | 
+AvailableVirtualMemory : 3.06 Go 
+10/21/2016 5:45:22 AM | 
+TotalVirtualMemory : 4 Go 
+10/21/2016 5:45:22 AM | 
+WorkingSet : 385.89 Mo 
+10/21/2016 5:45:22 AM | 
+PagedMemorySize : 370.35 Mo 
+10/21/2016 5:45:22 AM | 
+TotalMemory : 58.35 Mo 
+10/21/2016 5:45:22 AM | 
+
+10/21/2016 5:45:22 AM | 
+ExTrace : 
+10/21/2016 5:45:22 AM | 
+at System.Collections.Hashtable.Insert(Object key, Object nvalue, Boolean add)
+10/21/2016 5:45:22 AM | 
+at System.Collections.Hashtable.Add(Object key, Object value)
+10/21/2016 5:45:22 AM | 
+at DevExpress.XtraVerticalGrid.PropertyGridControl.MakeDefault(RepositoryItem item)
+10/21/2016 5:45:22 AM | 
+at DevExpress.XtraVerticalGrid.PropertyGridControl.CreateDefaultRowEdit(RowProperties p)
+10/21/2016 5:45:22 AM | 
+at DevExpress.XtraVerticalGrid.VGridControlBase.CreateRowEdit(RowProperties p)
+10/21/2016 5:45:22 AM | 
+at DevExpress.XtraVerticalGrid.VGridControlBase.GetRowEdit(RowProperties properties, Int32 recordIndex)
+10/21/2016 5:45:22 AM | 
+at DevExpress.XtraVerticalGrid.VGridControlBase.CreateEditorViewInfo(RowProperties properties, Int32 recordIndex)
+10/21/2016 5:45:22 AM | 
+at DevExpress.XtraVerticalGrid.ViewInfo.BaseRowViewInfo.CalcRowValueInfo(RowProperties p, Rectangle r, BaseViewInfo viewInfo, Int32 recordIndex)
+10/21/2016 5:45:22 AM | 
+at DevExpress.XtraVerticalGrid.ViewInfo.EditorRowViewInfo.CalcValuesInfo(BaseViewInfo vi, BaseRow nextRow)
+10/21/2016 5:45:22 AM | 
+at DevExpress.XtraVerticalGrid.ViewInfo.BaseRowViewInfo.Calc(Rectangle rowRect, BaseViewInfo vi, BaseRow nextRow)
+10/21/2016 5:45:22 AM | 
+
+10/21/2016 5:45:22 AM | 
+OETrace : 
+10/21/2016 5:45:22 AM | 
+at openElement.My.MyApplication.MyApplication_UnhandledException(Object sender, UnhandledExceptionEventArgs e) in C:\Users\Win7Dev64\Source\Workspaces\openElement\App\openElement\ApplicationEvents.vb:line 86
+10/21/2016 5:45:22 AM | 
+at openElement.My.MyApplication.Main(String[] Args) in 17d14f5c-a337-4978-8281-53493378c1071.vb:line 82
+10/21/2016 5:45:22 AM | 
+
+10/21/2016 5:45:22 AM | 
+------------------
+10/21/2016 11:21:20 AM | 
+10/21/2016 11:21:20 AM | 
+Message : Value cannot be null.
+10/21/2016 11:21:20 AM | 
+Parameter name: key
+10/21/2016 11:21:20 AM | 
+LastTrace : openElement.Forms.FrmPageEdit.InternalSelectElementsIsEqual(Dictionary`2 elements, String zoneName, String propertyName, String textEditData, Int32 stateZoneName)
+10/21/2016 11:21:20 AM | 
+Params : 
+10/21/2016 11:21:20 AM | 
+MethodeName : Void ThrowArgumentNullException(System.ExceptionArgument)
+10/21/2016 11:21:20 AM | 
+Stamp : 10/21/2016 11:21:20 AM
+10/21/2016 11:21:20 AM | 
+OSFullName : Microsoft Windows 10 Home
+10/21/2016 11:21:20 AM | 
+AvailablePhysicalMemory : 12.33 Go 
+10/21/2016 11:21:20 AM | 
+TotalPhysicalMemory : 15.94 Go 
+10/21/2016 11:21:20 AM | 
+AvailableVirtualMemory : 3.11 Go 
+10/21/2016 11:21:20 AM | 
+TotalVirtualMemory : 4 Go 
+10/21/2016 11:21:20 AM | 
+WorkingSet : 332.32 Mo 
+10/21/2016 11:21:20 AM | 
+PagedMemorySize : 317.48 Mo 
+10/21/2016 11:21:20 AM | 
+TotalMemory : 56.13 Mo 
+10/21/2016 11:21:20 AM | 
+
+10/21/2016 11:21:20 AM | 
+ExTrace : 
+10/21/2016 11:21:20 AM | 
+at openElement.Forms.FrmPageEdit.InternalSelectElementsIsEqual(Dictionary`2 elements, String zoneName, String propertyName, String textEditData, Int32 stateZoneName) in C:\Users\Win7Dev64\Source\Workspaces\openElement\App\openElement\Form\Page\FrmPageEdit.Select.vb:line 28
+10/21/2016 11:21:20 AM | 
+at openElement.Forms.FrmPageEdit.InternalSelectElements(Dictionary`2 elements, String zoneName, String propertyName, String textEditData, Int32 stateZoneName) in C:\Users\Win7Dev64\Source\Workspaces\openElement\App\openElement\Form\Page\FrmPageEdit.Select.vb:line 75
+10/21/2016 11:21:20 AM | 
+at openElement.Forms.FrmPageEdit.InternalSelectElements(String[] idArray, String zoneName, String propertyName, String textEditData, Int32 stateZoneName) in C:\Users\Win7Dev64\Source\Workspaces\openElement\App\openElement\Form\Page\FrmPageEdit.Select.vb:line 170
+10/21/2016 11:21:20 AM | 
+at openElement.Forms.PageEditFromJs._SelectElements(String idjsArray, String zoneName, String propertyName, String textEditData) in C:\Users\Win7Dev64\Source\Workspaces\openElement\App\openElement\Form\Page\PageEditFromJs.vb:line 502
+10/21/2016 11:21:20 AM | 
+
+10/21/2016 11:21:20 AM | 
+OETrace : 
+10/21/2016 11:21:20 AM | 
+at openElement.Forms.PageEditFromJs.TrapError(Exception ex, String infosParams) in C:\Users\Win7Dev64\Source\Workspaces\openElement\App\openElement\Form\Page\PageEditFromJs.vb:line 35
+10/21/2016 11:21:20 AM | 
+at openElement.Forms.PageEditFromJs._SelectElements(String idjsArray, String zoneName, String propertyName, String textEditData) in C:\Users\Win7Dev64\Source\Workspaces\openElement\App\openElement\Form\Page\PageEditFromJs.vb:line 508
+10/21/2016 11:21:20 AM | 
+at openElement.My.MyApplication.Main(String[] Args) in 17d14f5c-a337-4978-8281-53493378c1071.vb:line 82
+10/21/2016 11:21:20 AM | 
+
+10/21/2016 11:21:20 AM | 
+------------------

@@ -1,0 +1,1 @@
+var OEConfWEGallery1 = {"WE283f071cdf":{"AutoStart":true,"Delay":2000,"NextLinkText":{"Items":{"DEFAULT":"Next"}},"NumThumbs":8,"PauseLinkText":{"Items":{"DEFAULT":"Pause"}},"PlayLinkText":{"Items":{"DEFAULT":"Play"}},"PrevLinkText":{"Items":{"DEFAULT":"Previous"}},"RenderNavControls":false,"RenderSSControls":false}}

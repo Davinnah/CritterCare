@@ -1,0 +1,31 @@
+moving between elements
+
+
+Message : Item has already been added. Key in dictionary: '31037849'  Key being added: '31037849'
+LastTrace : openElement.Controls.CtlStylesCss.LoadPropertyGrid(List`1 selectedObjects)
+Params : 
+MethodeName : Void Insert(System.Object, System.Object, Boolean)
+Stamp : 10/17/2016 8:09:25 AM
+OSFullName : Microsoft Windows 10 Home
+AvailablePhysicalMemory : 12.42 Go 
+TotalPhysicalMemory : 15.94 Go 
+AvailableVirtualMemory : 3.06 Go 
+TotalVirtualMemory : 4 Go 
+WorkingSet : 379.79 Mo 
+PagedMemorySize : 415.44 Mo 
+TotalMemory : 72.29 Mo 
+
+ExTrace : 
+at openElement.Controls.CtlStylesCss.LoadPropertyGrid(List`1 selectedObjects) in C:\Users\Win7Dev64\Source\Workspaces\openElement\App\openElement\Control\CtlStylesCss.vb:line 120
+at openElement.Controls.CtlStyles.LoadCss() in C:\Users\Win7Dev64\Source\Workspaces\openElement\App\openElement\Control\CtlStyles.vb:line 119
+at openElement.Controls.CtlStyles.StartSelect() in C:\Users\Win7Dev64\Source\Workspaces\openElement\App\openElement\Control\CtlStyles.vb:line 69
+at openElement.Forms.Main.FrmMain.LoadCurrentSelection() in C:\Users\Win7Dev64\Source\Workspaces\openElement\App\openElement\Form\Main\FrmMain.vb:line 652
+at openElement.Forms.FrmPageEdit.ActivateSelectedElements(Boolean withJS) in C:\Users\Win7Dev64\Source\Workspaces\openElement\App\openElement\Form\Page\FrmPageEdit.Select.vb:line 299
+at openElement.Forms.PageEditFromJs._SelectElements(String idjsArray, String zoneName, String propertyName, String textEditData) in C:\Users\Win7Dev64\Source\Workspaces\openElement\App\openElement\Form\Page\PageEditFromJs.vb:line 503
+
+OETrace : 
+at openElement.Forms.PageEditFromJs.TrapError(Exception ex, String infosParams) in C:\Users\Win7Dev64\Source\Workspaces\openElement\App\openElement\Form\Page\PageEditFromJs.vb:line 35
+at openElement.Forms.PageEditFromJs._SelectElements(String idjsArray, String zoneName, String propertyName, String textEditData) in C:\Users\Win7Dev64\Source\Workspaces\openElement\App\openElement\Form\Page\PageEditFromJs.vb:line 508
+at openElement.My.MyApplication.Main(String[] Args) in 17d14f5c-a337-4978-8281-53493378c1071.vb:line 82
+
+------------------
